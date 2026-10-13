@@ -25,10 +25,16 @@ const peter = {
 }
 ```
 
-🛠️ Tech Stack
-🚀 What I'm Up To
+🛠️ Tech Stack:
+
+🚀 What I'm Up To:
+
 Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django).
 
 Advocating: Championing AI tools as a Gemini Student Ambassador and sharing insights at community events.
 
 Innovating: Exploring ways to integrate LLMs, data analytics, and smart environment concepts into everyday software products.
+
+Socials:
+LinkedIn: https://www.linkedin.com/in/peter-shemaya-357248339/
+Twitter: https://x.com/PShemaya48806
