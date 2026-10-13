@@ -29,7 +29,7 @@ const peter = {
 
 🚀 What I'm Up To:
 
-Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django) and afficient deployments [Rnder, Vercel, Raiway, GCP].
+Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django) and afficient deployments [Render, Vercel, Railway, GCP].
 
 Advocating: Championing AI tools as a Gemini Student Ambassador and sharing insights at community events.
 
