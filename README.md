@@ -5,7 +5,7 @@
 
 <br/>
 
-I'm a Full-Stack Software Engineer based in Nairobi, specializing in building robust web applications using **Django**, **React**, **Vite**, and **TypeScript**. As a **Google Gemini Student Ambassador** and an active member of **GDG Nairobi** and the **AWS Cloud Club**, I am deeply passionate about integrating modern web technologies with artificial intelligence to build smart, scalable solutions. 
+I'm a Full-Stack Software Engineer based in Nairobi, specializing in building robust web applications using **Django**, **React**, **Vite**, and **TypeScript**. As a **Google Gemini Student Ambassador** and an active member of **GDG Nairobi** and the **Claude Community**, I am deeply passionate about integrating modern web technologies with artificial intelligence to build smart, scalable solutions. 
 
 My technical foundation is backed by hands-on experience and continuous learning through programs at **Moringa School** and the **Power Learn Project**. I thrive in collaborative, high-energy environments—recently competing in the AI For Autonomous Systems Hackathon to co-develop an AI-Powered Household Energy Fairness Index, and engaging with developer communities at events like AgentCon Nairobi and Google I/O Extended.
 
@@ -29,7 +29,7 @@ const peter = {
 
 🚀 What I'm Up To:
 
-Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django).
+Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django) and afficient deployments.
 
 Advocating: Championing AI tools as a Gemini Student Ambassador and sharing insights at community events.
 
