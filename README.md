@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Peter Shemaya Otieno 👋</h1>
+  <h1>Hi, I'm Peter Shemaya👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Software+Engineer;Google+Gemini+Student+Ambassador;Full-Stack+(Django+%2B+React);Community+Builder" alt="Typing SVG" />
 </div>
 
@@ -13,7 +13,7 @@ My technical foundation is backed by hands-on experience and continuous learning
 
 ### 💻 About Me
 
-```typescript
+typescript
 const peter = {
   pronouns: "He/him",
   role: "Software Engineer & Google Gemini Student Ambassador",
@@ -23,6 +23,7 @@ const peter = {
   communities: ["GDG Nairobi", "AWS Cloud Club (MKU)", "African Technology Forum"],
   currentFocus: "Bridging the gap between full-stack web development and AI."
 }
+
 🛠️ Tech Stack
 🚀 What I'm Up To
 Building: Fast, type-safe frontends (React + Vite + TS) seamlessly connected to robust backend architectures (Django).
