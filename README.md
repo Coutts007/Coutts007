@@ -1,5 +1,3 @@
-# Peter-Shemaya
-Markdown
 <div align="center">
   <h1>Hi, I'm Peter Shemaya Otieno 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Software+Engineer;Google+Gemini+Student+Ambassador;Full-Stack+(Django+%2B+React);Community+Builder" alt="Typing SVG" />
