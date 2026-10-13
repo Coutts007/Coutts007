@@ -13,7 +13,7 @@ My technical foundation is backed by hands-on experience and continuous learning
 
 ### 💻 About Me
 
-typescript
+```typescript
 const peter = {
   pronouns: "He/him",
   role: "Software Engineer & Google Gemini Student Ambassador",
@@ -23,6 +23,7 @@ const peter = {
   communities: ["GDG Nairobi", "AWS Cloud Club (MKU)", "African Technology Forum"],
   currentFocus: "Bridging the gap between full-stack web development and AI."
 }
+```
 
 🛠️ Tech Stack
 🚀 What I'm Up To
