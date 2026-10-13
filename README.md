@@ -35,6 +35,9 @@ Advocating: Championing AI tools as a Gemini Student Ambassador and sharing insi
 
 Innovating: Exploring ways to integrate LLMs, data analytics, and smart environment concepts into everyday software products.
 
+
 Socials:
+
 LinkedIn: https://www.linkedin.com/in/peter-shemaya-357248339/
+
 Twitter: https://x.com/PShemaya48806
